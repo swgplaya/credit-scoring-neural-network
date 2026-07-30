@@ -1,0 +1,31 @@
+# Виртуальное окружение
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Секреты и локальные настройки
+.env
+.streamlit/secrets.toml
+
+# Исходные и обработанные данные
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Временные модели
+artifacts/checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
