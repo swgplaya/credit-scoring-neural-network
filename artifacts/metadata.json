@@ -1,0 +1,18 @@
+{
+  "input_size": 29,
+  "classification_threshold": 0.5,
+  "validation_metrics": {
+    "accuracy": 0.7622222222222222,
+    "precision": 0.47068021892103207,
+    "recall": 0.6050251256281407,
+    "roc_auc": 0.7756824063254935,
+    "loss": 0.8800916709899902
+  },
+  "test_metrics": {
+    "accuracy": 0.7613333333333333,
+    "precision": 0.4699074074074074,
+    "recall": 0.6114457831325302,
+    "roc_auc": 0.774857134015514,
+    "loss": 0.8819779691166348
+  }
+}
