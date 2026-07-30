@@ -367,3 +367,7 @@ Potential future extensions include:
 This repository is an educational machine learning project.
 
 It is not a validated banking model and must not be used to approve, reject, limit, or otherwise make real credit decisions.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
